@@ -23,3 +23,8 @@ conda install -y astropy""", True)
 
 # MAGIC 
 # MAGIC %conda install mkl
+
+# COMMAND ----------
+
+# MAGIC %sh 
+# MAGIC apt-get install tomcat8
