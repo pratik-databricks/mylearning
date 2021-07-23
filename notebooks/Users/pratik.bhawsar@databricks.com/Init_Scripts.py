@@ -28,3 +28,8 @@ conda install -y astropy""", True)
 
 # MAGIC %sh 
 # MAGIC apt-get install tomcat8
+
+# COMMAND ----------
+
+# MAGIC New line added to notebook
+# MAGIC checking git sync
