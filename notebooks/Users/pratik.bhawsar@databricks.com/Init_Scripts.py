@@ -31,5 +31,3 @@ conda install -y astropy""", True)
 
 # COMMAND ----------
 
-# MAGIC New line added to notebook
-# MAGIC checking git sync
